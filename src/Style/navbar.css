@@ -1,0 +1,21 @@
+#navbar::after{
+content: "";
+border-bottom: 1px;
+border-width: 1px;
+border-color: rgb(255, 255, 255);
+display: flex;
+width: 0%;
+flex-direction: column;
+opacity: 0;
+height: 1%;
+border-radius: 100% 100%;
+transition: ease-out 0.5s;
+}
+
+#navbar:hover::after{
+
+opacity: 1;
+width: 100%;
+
+
+}
