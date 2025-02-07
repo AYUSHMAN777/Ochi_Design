@@ -6,17 +6,17 @@ This project is a modern web application template that leverages the power of Re
 
 - **Fast Refresh**: Instant feedback on edits with no loss of state.
 - **ESLint**: Enforces code quality and consistency.
-- **Parallax Scrolling**: Smooth parallax scrolling effects.- **Parallax Scrolling**: Smooth parallax scrolling effects.
-- **Animations**: High-performance animations using GSAP and Framer Motion.ions**: High-performance animations using GSAP and Framer Motion.
+- **Parallax Scrolling**: Smooth parallax scrolling effects.
+- **Animations**: High-performance animations using GSAP and Framer Motion.
 
 ## Technologies Used
 
 - **React**: A JavaScript library for building user interfaces.
 - **Vite**: A build tool that aims to provide a faster and leaner development experience for modern web projects.
-- **Tailwind CSS**: A utility-first CSS framework for rapidly building custom user interfaces.- **Tailwind CSS**: A utility-first CSS framework for rapidly building custom user interfaces.
-- **Framer Motion**: A library for animations in React.*: A library for animations in React.
-- **GSAP**: A JavaScript library for creating high-performance animations.- **GSAP**: A JavaScript library for creating high-performance animations.
-- **Locomotive Scroll**: A smooth scrolling library.mooth scrolling library.
+- **Tailwind CSS**: A utility-first CSS framework for rapidly building custom user interfaces.
+- **Framer Motion**: A library for animations in React.*
+- **GSAP**: A JavaScript library for creating high-performance animations.
+- **Locomotive Scroll**: A smooth scrolling library.
 
 ## Plugins
 
